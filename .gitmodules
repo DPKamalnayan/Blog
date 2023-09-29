@@ -1,0 +1,7 @@
+[submodule "SoftwareEngineer/themes/anatole"]
+	path = SoftwareEngineer/themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
+[submodule "SoftwareEngineer/public"]
+	path = SoftwareEngineer/public
+	url = git@github.com:DPKamalnayan/SoftwareEngineer.github.io.git
+	branch = main
